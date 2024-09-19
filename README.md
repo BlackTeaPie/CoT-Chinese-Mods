@@ -22,7 +22,7 @@
 | NoLGBTMod | 移除NPCLGBT内容 | --- | [仓库内下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/blob/main/mods/NoLGBTMod-0.0.1.mod.zip) | 2024-09-06 |
 | 中文名MOD | 替换I18N的英文名翻译为中文姓名 | HCPTangHY | [仓库内下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/blob/main/mods/ChineseNameMod-0.0.3(%E5%85%A8%E6%96%B0%E5%90%8D%E5%AD%97%E8%B0%A8%E6%85%8E%E6%9B%B4%E6%96%B0).mod.zip) | 2024-09-18 |
 | WhoIsHere | 在页面下面加入原本需要在人物界面查看的附近的人 | HCPTangHY | [仓库内下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/blob/main/mods/WhoIsHere0.0.2.mod.zip) | 2024-09-16 |
-| 日文名MOD | 替换I18N的英文名翻译为中文姓名 | 未来 | [仓库内下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/blob/main/mods/JPNameMod-0.1.0.mod.zip) | 2024-09-18 |
+| 日文名MOD | 替换I18N的英文名翻译为日文姓名 | 未来 | [仓库内下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/blob/main/mods/JPNameMod-0.1.0.mod.zip) | 2024-09-18 |
 
 
 ## 模组收录提交
