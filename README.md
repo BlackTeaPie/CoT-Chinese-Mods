@@ -18,8 +18,24 @@
 | 模组名称 | 模组简介 | 模组作者 | 发布页或文件链接 | 最后更新时间 |
 |:----:|:----:|:----:|:----:|:----:|
 | 中文本地化翻译 | 将游戏语言翻译为中文 | CoT汉化组 | [汉化发布页](https://github.com/BlackTeaPie/Course-of-Temptation-Chinese-Localization) | ---- |
-| 存档导出MOD | 在存档界面加入文本框方便导出存档码 | HCPTangHY | | 2024-09-05 |
-| NoLGBTMod | 移除NPCLGBT内容 | --- | | 2024-09-06 |
-| 中文名MOD | 替换I18N的英文名翻译为中文姓名 | HCPTangHY | | 2024-09-18 |
-| WhoIsHere | 在页面下面加入原本需要在人物界面查看的附近的人 | HCPTangHY | | 2024-09-16 |
-| 日文名MOD | 替换I18N的英文名翻译为中文姓名 | 未来 | | 2024-09-18 |
+| 存档导出MOD | 在存档界面加入文本框方便导出存档码 | HCPTangHY | [仓库内下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/blob/main/mods/CoTSaveExportMod-0.0.1.mod.zip) | 2024-09-05 |
+| NoLGBTMod | 移除NPCLGBT内容 | --- | [仓库内下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/blob/main/mods/NoLGBTMod-0.0.1.mod.zip) | 2024-09-06 |
+| 中文名MOD | 替换I18N的英文名翻译为中文姓名 | HCPTangHY | [仓库内下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/blob/main/mods/ChineseNameMod-0.0.3(%E5%85%A8%E6%96%B0%E5%90%8D%E5%AD%97%E8%B0%A8%E6%85%8E%E6%9B%B4%E6%96%B0).mod.zip) | 2024-09-18 |
+| WhoIsHere | 在页面下面加入原本需要在人物界面查看的附近的人 | HCPTangHY | [仓库内下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/blob/main/mods/WhoIsHere0.0.2.mod.zip) | 2024-09-16 |
+| 日文名MOD | 替换I18N的英文名翻译为中文姓名 | 未来 | [仓库内下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/blob/main/mods/JPNameMod-0.1.0.mod.zip) | 2024-09-18 |
+
+
+## 模组收录提交
+请通过[issue](https://github.com/BlackTeaPie/CoT-Chinese-Mods/issues)的方式提交模组，至少包含模组分类、模组名称、简介、作者、发布页或文件等信息
+- **请务必确保自己的模组可以正常运行，如果你的模组连最基本的游玩功能都尚未达到，请不要提交收录申请**
+
+
+## 模组制作指北
+
+CoT的模组与DoL等使用ModLoader作为模组加载器的游戏相似，需要将模组打包为`.mod.zip`的格式并填有完整的`boot.json`
+相关内容链接
+- JavaScript：本游戏为HTML游戏，从游戏引擎到实际内容均有JS的参与。[菜鸟教程](https://www.runoob.com/js/js-tutorial.html) [MDN教程](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+  > 如果JS基础不好的话，建议先学JS。
+- SugarCube2官方文档：本游戏由Twine-Sugarcube编写运行，模组也需要按照Sugarcube的语法进行编写 [Sugarcube官方文档](https://www.motoslave.net/sugarcube/2/docs/)
+- ModLoader仓库：内有完整详细的模组填写、打包教程 [Lyoko-Jeremie/sugarcube-2-ModLoader](https://github.com/Lyoko-Jeremie/sugarcube-2-ModLoader)
+- DOL Mod制作助手：适用于DOL的模组制作助手，大部分内容均可用于cot模组的制作和打包 [DOL-Mod-Created-Helper](https://github.com/NumberSir/DOL-Mod-Created-Helper)
