@@ -1,6 +1,6 @@
 # Course-of-Temptation-Chinese-Mods
 
-本页面用于收录游戏Course of Temptation中文区玩家制作的模组信息、以及与制作模组相关的内容。
+本页面用于收录游戏Course of Temptation中文区玩家制作的模组信息、以及与制作模组相关的内容。有意向编写、改进模组与模组相关工具的开发者欢迎加入交流群：984850682
 
 ## 注意事项
 
