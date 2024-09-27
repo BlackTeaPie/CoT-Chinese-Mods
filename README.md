@@ -1,6 +1,9 @@
 # Course-of-Temptation-Chinese-Mods
 
 本页面用于收录游戏Course of Temptation中文区玩家制作的模组信息、以及与制作模组相关的内容。有意向编写、改进模组与模组相关工具的开发者欢迎加入交流群：984850682
+汉化版 Discord 交流服务器：
+
+[![](https://dcbadge.vercel.app/api/server/PfFKvBxH68)](https://discord.gg/PfFKvBxH68)
 
 ## 注意事项
 
@@ -12,6 +15,7 @@
 - “可以使用模组加载器(ModLoader)加载”：意为该模组遵守 JML 的加载格式，可以直接通过 JML 加载。
 - “可以作为模组加载器(ModLoader)的载体”：意为该模组以旧方法编写，以编译后的 HTML 形式发布，本身可以作为游戏本体加载其它的模组。
 - “与模组加载器(ModLoader)无关”：意为该模组通过其他方式编写加载，仅能单独游玩。
+4. 发布在Discord的模组请先点击上方邀请链接加入服务器，才能定向到指定页面。
 
 ## 模组列表
 ### 可以使用模组加载器加载
