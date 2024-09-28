@@ -29,6 +29,7 @@
 | 日文名MOD | 替换I18N的英文名翻译为日文姓名 | 未来 | [仓库内下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/raw/main/mods/JPNameMod-0.1.0.mod.zip) | 2024-09-18 |
 | 便捷修改NPC倾向 | 在编辑NPC倾向界面将中英倾向列出 | 林夜无霜 | [Discord](https://discord.com/channels/1276544544749391902/1286609803291922443) | 2024-09-24 | 
 | 身材管理小助手 | 在食物贮藏处增加了当前饮食、锻炼情况对体型影响情况的说明 | 林夜无霜 | [Discord](https://discord.com/channels/1276544544749391902/1288088552961478740) | 2024-09-24 |
+| 等待时间优化 | 优化原本的等待20分钟为等待至下一个时刻 | 林夜无霜 | [Discord](https://discord.com/channels/1276544544749391902/1289482347267493888) | 2024-09-28 |
 
 ## 模组收录提交
 请通过[issue](https://github.com/BlackTeaPie/CoT-Chinese-Mods/issues)的方式提交模组，至少包含模组分类、模组名称、简介、作者、发布页或文件等信息
