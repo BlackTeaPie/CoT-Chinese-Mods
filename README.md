@@ -32,7 +32,8 @@
 | 等待时间优化 | 优化原本的等待20分钟为等待至下一个时刻 | 林夜无霜 | [Discord](https://discord.com/channels/1276544544749391902/1289482347267493888) | 2024-09-28 |
 | 生活调味料 | 加入食物饱食递减机制、食谱与更多食物 | HCPTangHY | [发布仓库](https://github.com/HCPTangHY/CoT-Spice-of-Life-Mod) | 2024-09-29 |
 | 图标拓展 | 一个小图标拓展+框架，为游戏选项加入图标 | HCPTangHY等 | [仓库内下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/raw/main/mods/IconMod-0.1.0.mod.zip) | 2024-09-30 |
-| 修改NPC性取向 | 开启作弊模式后，允许你在NPC界面修改该NPC的性取向 | 林夜无霜 | [Discord](https://discord.com/channels/1276544544749391902/1290578319250817044) | 2024-10-02 | 
+| 修改NPC性取向 | 开启作弊模式后，允许你在NPC界面修改该NPC的性取向 | 林夜无霜 | [Discord](https://discord.com/channels/1276544544749391902/1290578319250817044) | 2024-10-02 |
+| 自选聊天话题 | 和npc聊天时自己选择聊天话题，也可查看过往聊得是否愉快 | 林夜无霜 | [Discord](https://discord.com/channels/1276544544749391902/1291534358498381854) | 2024-10-04 |
 
 ## 模组收录提交
 请通过[issue](https://github.com/BlackTeaPie/CoT-Chinese-Mods/issues)的方式提交模组，至少包含模组分类、模组名称、简介、作者、发布页或文件等信息
