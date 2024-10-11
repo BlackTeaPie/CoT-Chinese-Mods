@@ -31,7 +31,7 @@
 | 身材管理小助手 | 在食物贮藏处增加了当前饮食、锻炼情况对体型影响情况的说明 | 林夜无霜 | [Discord](https://discord.com/channels/1276544544749391902/1288088552961478740) | 2024-09-24 |
 | 等待时间优化 | 优化原本的等待20分钟为等待至下一个时刻 | 林夜无霜 | [Discord](https://discord.com/channels/1276544544749391902/1289482347267493888) | 2024-09-28 |
 | 生活调味料 | 加入食物饱食递减机制、食谱与更多食物 | HCPTangHY | [发布仓库](https://github.com/HCPTangHY/CoT-Spice-of-Life-Mod) | --- |
-| 图标拓展 | 一个小图标拓展+框架，为游戏选项加入图标 | HCPTangHY等 | [仓库内下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/raw/main/mods/IconMod-0.1.0.mod.zip) | 2024-09-30 |
+| 图标拓展 | 一个小图标拓展+框架，为游戏选项加入图标 | HCPTangHY等 | [发布仓库](https://github.com/HCPTangHY/CoT-IconMod) | --- |
 | 修改NPC性取向 | 开启作弊模式后，允许你在NPC界面修改该NPC的性取向 | 林夜无霜 | [Discord](https://discord.com/channels/1276544544749391902/1290578319250817044) | 2024-10-02 |
 | 自选聊天话题 | 和npc聊天时自己选择聊天话题，也可查看过往聊得是否愉快 | 林夜无霜 | [Discord](https://discord.com/channels/1276544544749391902/1291534358498381854) | 2024-10-04 |
 | NPC立绘模组 | 为NPC增加随发型和最外层衣物改变的立绘 | Maenoko | [发布仓库](https://github.com/Maenoko/NPC-Visualization-Mod) | --- |
