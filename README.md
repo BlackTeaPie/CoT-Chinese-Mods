@@ -35,6 +35,7 @@
 | 修改NPC性取向 | 开启作弊模式后，允许你在NPC界面修改该NPC的性取向 | 林夜无霜 | [Discord](https://discord.com/channels/1276544544749391902/1290578319250817044) | 2024-10-02 |
 | 自选聊天话题 | 和npc聊天时自己选择聊天话题，也可查看过往聊得是否愉快 | 林夜无霜 | [Discord](https://discord.com/channels/1276544544749391902/1291534358498381854) | 2024-10-04 |
 | NPC立绘模组 | 为NPC增加随发型和最外层衣物改变的立绘 | Maenoko | [发布仓库](https://github.com/Maenoko/NPC-Visualization-Mod) | --- |
+| 衣服差分修复 | 用于修复那些因为汉化bug导致坏档的衣服 | HCPTangHY | [仓库内下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/raw/main/mods/ReSubClothes.mod.zip) | --- |
 
 ## 模组收录提交
 请通过[issue](https://github.com/BlackTeaPie/CoT-Chinese-Mods/issues)的方式提交模组，至少包含模组分类、模组名称、简介、作者、发布页或文件等信息
