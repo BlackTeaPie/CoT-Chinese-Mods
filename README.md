@@ -35,6 +35,8 @@
 | 修改NPC性取向 | 开启作弊模式后，允许你在NPC界面修改该NPC的性取向 | 林夜无霜 | [Discord](https://discord.com/channels/1276544544749391902/1290578319250817044) | 2024-10-02 |
 | 自选聊天话题 | 和npc聊天时自己选择聊天话题，也可查看过往聊得是否愉快 | 林夜无霜 | [Discord](https://discord.com/channels/1276544544749391902/1291534358498381854) | 2024-10-04 |
 | NPC立绘模组 | 为NPC增加随发型和最外层衣物改变的立绘 | Maenoko | [发布仓库](https://github.com/Maenoko/NPC-Visualization-Mod) | --- |
+| 锁定需求MOD | 为需求衰减乘数添加0x选项，所有需求不再衰减 | 丧心 | [issue附件下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/issues/7#issuecomment-2479062206) | 2025-11-15 |
+| 作弊拓展 Cheat Extended | 集成作弊功能：停止时间、锁定需求、时间倍速、绕过暴露癖限制、一键全满技能、随身衣橱、事件浏览器 | hwcxx | [发布仓库](https://github.com/jaymoda88/CoT-Cheat-Extended) | 2026-05-25 |
 | 衣服差分修复 | 用于修复那些因为汉化bug导致坏档的衣服 | HCPTangHY | [仓库内下载](https://github.com/BlackTeaPie/CoT-Chinese-Mods/raw/main/mods/ReSubClothes.mod.zip) | --- |
 
 ## 模组收录提交
